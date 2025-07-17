@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Holzstaubbelastung",
+    "description": "Feiner Holzstaub in der Atemluft beim Schleifen ohne Absaugung",
+    "category": "Physikalisch"
+  },
+  {
+    "title": "Lärmbelastung",
+    "description": "Hoher Dauerschallpegel (>80 dB) an Kreissäge ohne Gehörschutz",
+    "category": "Physikalisch"
+  },
+  {
+    "title": "Schnittverletzungen",
+    "description": "Arbeiten mit scharfen Hobelmessern ohne Schutzhandschuhe",
+    "category": "Mechanisch"
+  },
+  {
+    "title": "Heben schwerer Platten",
+    "description": "Manuelles Heben von schweren Holzplatten (>25 kg) ohne Hilfsmittel",
+    "category": "Ergonomisch"
+  },
+  {
+    "title": "Elektrische Gefährdung",
+    "description": "Beschädigte Netzleitung an Elektrowerkzeugen berührbar",
+    "category": "Elektrisch"
+  }
+]
